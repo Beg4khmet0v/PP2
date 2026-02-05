@@ -26,4 +26,23 @@ fruits = ["apple", "banana", "cherry"]
 for x in "banana":
   print(x) #this is looping through a string example from w3schools, similar to 1st example
 
-  
+numbers = "12345"
+for num in numbers:
+  print(num) #1st example
+
+colors = "redgreenblue"
+for color in colors:
+  print(color) #2nd example
+
+pets = "dogcatrabbit"
+for pet in pets:
+  print(pet) #3rd example
+
+cities = "NewYorkLosAngelesChicago"
+for city in cities:
+  print(city) #4th example
+
+vehicles = "carbikebus"
+for vehicle in vehicles:
+  print(vehicle) #5th example
+
