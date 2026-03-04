@@ -142,11 +142,6 @@ def my_function(animal, name):
 
 my_function("dog", "Buddy") #example of calling a function with positional arguments from w3schools.com
 
-def my_function(animal, name):
-  print("I have a", animal)
-  print("My", animal + "'s name is", name)
-
-my_function("Buddy", "dog") #example of mistake of calling a function with positional arguments in wrong order from w3schools.com
 
 def my_function(food, drink):
   print("I like", food)

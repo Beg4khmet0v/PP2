@@ -40,3 +40,4 @@ student1 = Student()
 student2 = Student()
 print(student1.school_name)
 print(student2.school_name) #example 5
+
