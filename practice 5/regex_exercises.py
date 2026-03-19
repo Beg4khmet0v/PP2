@@ -72,9 +72,3 @@ print("10.", camel_to_snake(text10))
 
 
 
-
-
-text11 = "I have 2 apples and 15 bananas and 300 grapes"
-pattern11=r"\d+"
-finding_number=re.findall(pattern11, text11)
-print("11. ", finding_number)
