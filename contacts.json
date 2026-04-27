@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nurali",
+        "email": "nurlibegakhmetov@gmail.com",
+        "birthday": "2007-03-12",
+        "group": "Family",
+        "phones": [
+            {
+                "number": "87475551730",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Alex",
+        "email": "alex@gmail.com",
+        "birthday": "2000-01-01",
+        "group": "Friend",
+        "phones": [
+            {
+                "number": "777111",
+                "type": "mobile"
+            }
+        ]
+    }
+]
